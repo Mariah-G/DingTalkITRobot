@@ -1,2 +1,2 @@
 # DingTalkITRobot
-A Dingtalk Robot used to @ specific users when the bot is @
+A Dingtalk Robot used to @ specific users when the bot is @.
